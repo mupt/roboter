@@ -1,6 +1,15 @@
 # Roboter
 
-**TODO: Add description**
+## Features
+## Roboter Slack Workspace
+
+When a new pull request is submitted from a defined list of authors Roboter pings predefined slack channel.
+
+You can ask the bot the following:
+* open pr me
+* open pr [name]
+* open features
+
 
 ## Installation
 

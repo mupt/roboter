@@ -22,3 +22,6 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 roboter-*.tar
 
+#Ignore secrest for right now
+/config/config.secrets.exs
+
